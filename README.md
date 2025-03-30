@@ -30,25 +30,7 @@ This project focuses on classifying text messages as spam or ham using machine l
 - Pandas
 - NumPy
 
-## Usage
-1. Prepare the dataset and ensure it is in CSV format.
-2. Run the preprocessing script:
-   ```bash
-   python preprocess.py
-   ```
-3. Train the machine learning models:
-   ```bash
-   python train_ml_models.py
-   ```
-4. Train the deep learning models:
-   ```bash
-   python train_dl_models.py
-   ```
-5. Evaluate the models:
-   ```bash
-   python evaluate.py
-   ```
-
+  
 ## Results
 | Model               | Accuracy |
 |---------------------|----------|
